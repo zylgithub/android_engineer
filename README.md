@@ -2,19 +2,19 @@
 
 - 手机：1380013800
 
-- Email：haegyeong.chim@gmail.com
+- Email：zylandroid@163.com
 
-- 微信号：Haegyeong
+- 微信号：********
 
 # 个人信息
 
-- 陈小琼/男/1994
+- zyl/男/1991
 
 - 学校：xxx学院/计算机应用技术专业
 
-- 工作年限：2年6个月
+- 工作年限：3年6个月
 
-- 简书：[@haegyeong](https://www.jianshu.com/u/3aeb75da748c)  Github：[@haegyeong](https://github.com/haegyeong)  码云：[@_haegyeong](https://gitee.com/null_665_7650)
+- 简书：
 
 - 期望职位：android开发
 
